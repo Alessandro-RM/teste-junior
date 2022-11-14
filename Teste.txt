@@ -15,3 +15,4 @@ Teste:
     - Validar o CPF enviado na requisição de cadastro e update.
     - Disponibilizar os serviços de "show", "delete", "update", baseado nos serviços existentes, "store" e "find" no controller "PessoaController".
 
+*********OBSERVAÇÃO (NÃO CONSEGUI ME CONECTAR AO BANCO DE DADOS)**********
